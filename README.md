@@ -1,7 +1,7 @@
 # [up-acmw-w] whoami
 Todo acerca de UP ACM-W. Acerca de, historia, procesos internos y más.
 
-##Índice
+## Índice
 1. Información general del capítulo
 2. Participación
 3. Equipos
